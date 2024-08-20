@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/55db444d-8e9a-4809-be31-375a5de0b6b4)![image](https://github.com/user-attachments/assets/03430c7a-8ed0-40b7-b2b9-4bed318abc79)# Detecting Car Insurance Fraud Using Improved Clustering with Genetic Algorithm
+# Detecting Car Insurance Fraud Using Improved Clustering with Genetic Algorithm
 
 # Overview
 This project presents a novel approach for detecting car insurance fraud by employing an optimized genetic algorithm for data clustering. Traditional clustering methods, such as K-means, often struggle with the complexities inherent in determining the optimal number of clusters and data allocation. Our approach leverages the power of genetic algorithms, a method inspired by natural evolution, to improve the accuracy and efficiency of clustering, particularly in the challenging field of insurance fraud detection.
