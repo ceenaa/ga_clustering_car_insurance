@@ -28,3 +28,10 @@ These results demonstrate the effectiveness of the genetic algorithm in outperfo
 
 ### Convergence
 ![image](https://github.com/user-attachments/assets/846c50ce-b4ba-4b38-821e-8348aeda57d9)
+
+# Contributer
+<a href="https://github.com/ceenaa/ga_clustering_car_insurance/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ceenaa/ga_clustering_car_insurance" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
