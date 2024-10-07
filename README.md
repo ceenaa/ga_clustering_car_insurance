@@ -17,9 +17,9 @@ This project presents a novel approach for detecting car insurance fraud by empl
 # Performance Evaluation
 The method was tested on three insurance datasets specifically selected for fraud detection. The results were promising:
 
-* Dataset 1: **27%** improvement in **F1 score** and a **6%** increase in **accuracy**.
-* Dataset 2: **1%** improvement in **F1 score** and a **2%** increase in **accuracy**.
-* Dataset 3: **2%** improvement in **F1 score** and a **9%** increase in **accuracy**.
+* Dataset 1: **12%** improvement in **F1 score** and a **10%** increase in **accuracy**.
+* Dataset 2: **1%** improvement in **F1 score** and a **1%** increase in **accuracy**.
+* Dataset 3: **1%** improvement in **F1 score** and a **2%** increase in **accuracy**.
 These results demonstrate the effectiveness of the genetic algorithm in outperforming traditional clustering methods like K-means.
 
 # Results
